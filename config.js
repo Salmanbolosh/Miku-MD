@@ -8,7 +8,7 @@ global.antitags = true
 
 
 global.Owner = ['601169703565']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['601169703565']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
+global.OwnerNumber = ['601169703565".'249994735016']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.ownertag = ['601169703565']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
 global.BotName = "Miku"
 global.packname = "Miku bot"
